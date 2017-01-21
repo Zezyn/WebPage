@@ -98,6 +98,9 @@ textarea {
 * {
     background-color: white;
 }
+header {
+    text-align: center;
+}
 
 h2 {
     text-align: center;
